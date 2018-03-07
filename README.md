@@ -14,5 +14,6 @@
 - if folder is 7Zipped, the program will be unable to unzip and will skip folders, logging them in 'crashedLog.txt'.
 
 ### FUTURE DEVELOPMENT/NOTES
-- the parser is intended to parse through folders, unzip them (if they are not 7Zipped) 
-- The program prints the extracted information but in later iterations, the program will save that data into a CSV to be formatted accordingly. 
+- [ ] the parser is intended to parse through folders, unzip them (if they are not 7Zipped) 
+- [ ] the program prints the extracted information but in later iterations, the program will save that data into a CSV to be formatted accordingly. 
+- [ ] make parser more interactive, allowing user to input file paths according to their environments
